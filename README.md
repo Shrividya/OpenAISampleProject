@@ -8,16 +8,16 @@ An interactive AI-powered chatbot that provides travel tips and landmark informa
 - CLI interface for easy interaction
 - Concise and friendly responses
 
-## Installation
-1. Clone the repository:
+## Installation and run
 ```
+#1 Clone the repository:
 https://github.com/Shrividya/OpenAISampleProject.git
-```
-2. Install dependencies
- ```
+
+#2 Install dependencies
 pip install -r requirements.txt
-```
-3. Run the app
-```
+
+export OPENAI_API_KEY = <openai api key>
+
+#3. Run the app
 streamlit run app.py
 ```
