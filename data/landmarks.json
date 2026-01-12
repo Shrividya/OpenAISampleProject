@@ -1,0 +1,14 @@
+{
+  "Eiffel Tower": {
+    "description": "The most famous landmark in Paris, offering panoramic city views.",
+    "tips": ["Best visited early morning or late evening for fewer crowds.", "Tickets can be booked online in advance."]
+  },
+  "Louvre Museum": {
+    "description": "World's largest art museum, home to the Mona Lisa and thousands of other masterpieces.",
+    "tips": ["Allocate at least 3-4 hours to explore.", "Try visiting on Wednesday or Friday evenings for fewer visitors."]
+  },
+  "Arc de Triomphe": {
+    "description": "Iconic monument honoring those who fought for France, located at Place Charles de Gaulle.",
+    "tips": ["Climb to the top for a stunning view of Champs-Élysées.", "Best photo at sunset."]
+  }
+}
